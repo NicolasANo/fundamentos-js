@@ -1,0 +1,6 @@
+// == (comparação implícita)
+
+
+
+
+console.log(numero === texto)
