@@ -2,7 +2,7 @@ const cliente ={
     nome: "Nicolas",
     idade: 16,
     cpf:"6767676767",
-    email:"Nicolas@dominio.com"
+    email:"nicolas@dominio.com"
 };
 
 
